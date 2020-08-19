@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Market1.0"
+      name = "Market1.0">
+      <Group
+         location = "group:Market"
+         name = "Market">
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+            </Group>
+         </Group>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <Group
+            location = "group:Main"
+            name = "Main">
+            <FileRef
+               location = "group:MainTableViewController.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TableViewCell.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TableViewController.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TableViewModel.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Product.swift">
+            </FileRef>
+            <FileRef
+               location = "group:MainTableViewCell.swift">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
+   <FileRef
+      location = "self:Market.xcodeproj">
+   </FileRef>
+</Workspace>

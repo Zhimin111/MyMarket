@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Market"
+      name = "Market">
+      <Group
+         location = "group:../../../Market/Market/Market"
+         name = "Market">
+         <FileRef
+            location = "group:ViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:market 11.41.40 AM.jpg">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Main.storyboard">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <Group
+            location = "group:Main"
+            name = "Main">
+            <FileRef
+               location = "group:MainTableViewController.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TableViewCell.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TableViewModel.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Product.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TableViewCellViewModel.swift">
+            </FileRef>
+            <FileRef
+               location = "group:MainTableViewCell.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:SceneDelegate.swift">
+         </FileRef>
+         <Group
+            location = "group:Detail View"
+            name = "Detail View">
+            <FileRef
+               location = "group:DetailViewController.swift">
+            </FileRef>
+            <FileRef
+               location = "group:DetailTableViewController.swift">
+            </FileRef>
+            <FileRef
+               location = "group:DetailViewModel.swift">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:Market"
+         name = "Market">
+         <FileRef
+            location = "group:Market.1.0xcworkspace.xcworkspace">
+         </FileRef>
+         <Group
+            location = "group:Market"
+            name = "Market">
+            <FileRef
+               location = "group:ViewController.swift">
+            </FileRef>
+            <Group
+               location = "group:Assets.xcassets"
+               name = "Assets.xcassets">
+               <Group
+                  location = "group:AppIcon.appiconset"
+                  name = "AppIcon.appiconset">
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+                  <FileRef
+                     location = "group:market 11.41.40 AM.jpg">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Base.lproj"
+               name = "Base.lproj">
+               <FileRef
+                  location = "group:LaunchScreen.storyboard">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:AppDelegate.swift">
+            </FileRef>
+            <Group
+               location = "group:Main"
+               name = "Main">
+               <FileRef
+                  location = "group:MainTableViewController.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:TableViewCell.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:TableViewModel.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Product.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:TableViewCellViewModel.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:MainTableViewCell.swift">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+            <FileRef
+               location = "group:SceneDelegate.swift">
+            </FileRef>
+            <Group
+               location = "group:Detail View"
+               name = "Detail View">
+               <FileRef
+                  location = "group:DetailViewController.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:DetailTableViewController.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:DetailViewModel.swift">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:MarketTests"
+            name = "MarketTests">
+            <FileRef
+               location = "group:MarketTests.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Market.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "self:MyMarket.xcodeproj">
+   </FileRef>
+</Workspace>
